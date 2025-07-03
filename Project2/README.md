@@ -1,4 +1,3 @@
-# New files
+# New File
 
-This File was created locally on computer.
-Created by Mukesh Sharma.
+This file is created locally on the system
